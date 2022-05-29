@@ -1,0 +1,4 @@
+Project3（开发团队人员调度软件）
+view模块为主控模块，负责菜单的显示和处理用户操作
+service模块为实体对象（Employee及其子类如程序员等）的管理模块， NameListService和TeamService类分别用各自的数组来管理公司员工和开发团队成员对象
+domain模块为Employee及其子类等JavaBean类所在的包
